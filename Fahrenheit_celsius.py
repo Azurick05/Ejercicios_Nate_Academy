@@ -1,5 +1,5 @@
 
-grados_fahrenheit = int(input("Introduzca la Temperatura en grados Fahrenheit: "))
+grados_fahrenheit = float(input("Introduzca la Temperatura en grados Fahrenheit: "))
 
 temperature_celsius = float((grados_fahrenheit - 32) / 1.8)
 
