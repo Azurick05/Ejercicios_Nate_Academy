@@ -1,7 +1,7 @@
 
 input_frase = input("Introduzca una frase: ")
 
-referencia = ["a", "e", "i" , "o", "u"]
+referencia = ["a", "e", "i", "o", "u"]
 contador_vocales = 0
 vocales = []
 
